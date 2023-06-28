@@ -3,7 +3,7 @@
 
 - [0627 - Python(EDA, Crawling)](https://github.com/JHyuk2/BigLeader_9/tree/main/0627%20Python)
 
-- [0628 - Power BI](https://github.com/JHyuk2/BigLeader_9/tree/main/0628%20Power BI)
+- [0628 - Power BI](https://github.com/JHyuk2/BigLeader_9/tree/main/0628%20Power%20BI)
 
 
 
@@ -66,6 +66,6 @@ PowerBI 매우 생소했고, 재밌었다. 하지만 역시 내 맘대로 데이
 파이썬에서 matplot으로 쓰던 시각화를 다른 툴을 이용해서 나타내는게 재미있었다.<br>
 특히 시간을 축으로 한 차트에서 예측하는 부분이 가장 신기했던것 같다.<br>
 
-> Power BI 를 활용한 시각화 (by 윤정)
+> Power BI 를 활용한 서울시내인구 주중,주말 인구통계 시각화
 >
 > ![PowerBI 시각화](./asset/power_bi.png) 
