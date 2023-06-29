@@ -88,3 +88,10 @@ git add . - git commit(-m "메세지 보내는 곳") - git push
 
 power BI - day2 / git bash 사용법 / 다들 화이팅!!  
 <br>
+
+
+**윤정** 
+
+power BI 사용법 익히기!!<br>
+git bash 처음써보는데 익히자<br> 
+<br>
