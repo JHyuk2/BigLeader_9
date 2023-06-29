@@ -95,3 +95,10 @@ power BI - day2 / git bash 사용법 / 다들 화이팅!!
 power BI 사용법 익히기!!<br>
 git bash 처음써보는데 익히자<br> 
 <br>
+
+**현호** 
+
+Power BI 마무리 + git 자습 했다. Git bash 오랜만에 쓰니까 명령어도 기억안나고 개빡셈. 살려줘ㅓㅓㅓ<br>
+Power BI 끝나서 좋아용
+<br>
+
