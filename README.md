@@ -82,3 +82,9 @@ PowerBI 매우 생소했고, 재밌었다. 하지만 역시 내 맘대로 데이
 git add . - git commit(-m "메세지 보내는 곳") - git push   
 복잡한데 계속 해야 완벽 이해 가능할 듯!!!  세미 이해함
 <br>
+
+
+**종혁** 
+
+power BI - day2 / git bash 사용법 / 다들 화이팅!!  
+<br>
