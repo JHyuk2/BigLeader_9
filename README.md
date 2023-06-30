@@ -5,7 +5,7 @@
 
 - [0628 - Power BI](https://github.com/JHyuk2/BigLeader_9/tree/main/0628%20Power%20BI)
 
-- [0629 - Git Bash]
+- [0629 - Git Bash](https://github.com/JHyuk2/BigLeader_9/tree/main/0629%20Git%20Bash).
 
 - [0629 - Crawler]
 
