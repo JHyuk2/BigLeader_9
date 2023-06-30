@@ -5,7 +5,9 @@
 
 - [0628 - Power BI](https://github.com/JHyuk2/BigLeader_9/tree/main/0628%20Power%20BI)
 
+- [0629 - Git Bash]
 
+- [0629 - Crawler]
 
 
 
@@ -71,7 +73,7 @@ PowerBI 매우 생소했고, 재밌었다. 하지만 역시 내 맘대로 데이
 > ![PowerBI 시각화](./asset/power_bi.png) 
 
 
-## 6월 29일 수요일
+## 6월 29일 목요일
 
 #### 'GIT' 사용법
 
@@ -101,4 +103,29 @@ git bash 처음써보는데 익히자<br>
 Power BI 마무리 + git 자습 했다. Git bash 오랜만에 쓰니까 명령어도 기억안나고 개빡셈. 살려줘ㅓㅓㅓ<br>
 Power BI 끝나서 좋아용
 <br>
+
+## 6월 30일 금요일
+
+#### Crawler Day 1
+
+
+
+**혜민** 
+
+<br>
+
+
+**종혁** 
+
+<br>
+
+
+**윤정** 
+
+<br>
+
+**현호** 
+
+Selenium과 Chrome webdriver를 이용한 웹 크롤링을 배운지 1일차. 써먹을 일이 있었는데 잘 됐다.<br>
+
 
