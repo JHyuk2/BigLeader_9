@@ -7,7 +7,7 @@
 
 - [0629 - Git Bash](https://github.com/JHyuk2/BigLeader_9/tree/main/0629%20Git%20Bash).
 
-- [0629 - Crawler]
+- [0630 - Crawler](https://github.com/JHyuk2/BigLeader_9/tree/main/0630%20Crawling)
 
 
 
@@ -75,7 +75,7 @@ PowerBI 매우 생소했고, 재밌었다. 하지만 역시 내 맘대로 데이
 
 ## 6월 29일 목요일
 
-#### 'GIT' 사용법
+#### `GIT` 사용법
 
 
 
@@ -106,7 +106,7 @@ Power BI 끝나서 좋아용
 
 ## 6월 30일 금요일
 
-#### Crawler Day 1
+#### `Crawling` - Day 1
 
 
 
@@ -116,7 +116,8 @@ Power BI 끝나서 좋아용
 
 
 **종혁** 
-
+개인적으로 들었던 강의 중 가장 깔끔했던 강의 중 하나.  
+타겟을 정하고. What Why How Get. 기억하자  
 <br>
 
 
