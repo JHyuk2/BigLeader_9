@@ -115,7 +115,6 @@ Power BI 끝나서 좋아용
 미아내 늦게 써서~ ㅜㅜ<br>
 오늘 크롤링 끄읏~!~!~!~! 다시 한 번 더 해봐야 할 듯 흑흑 <br>
 
-<a href = 'https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.tenor.com%2Fa7NcsPG5hdEAAAAC%2F%25EC%25A1%25B0%25EC%2584%259D-%25EB%2588%2588%25EB%25AC%25BC.gif&tbnid=mePxHeCws_06sM&vet=12ahUKEwiG3N6s2_L_AhXzmFYBHUsrBisQMygAegUIARCZAg..i&imgrefurl=https%3A%2F%2Ftenor.com%2Fview%2F%25EC%25A1%25B0%25EC%2584%259D-%25EB%2588%2588%25EB%25AC%25BC-%25EC%2595%2584%25EC%2595%2584%25EC%2595%2584%25EC%2595%2584-gif-18616951&docid=B7NeWKhJOpzKPM&w=498&h=308&q=%EB%88%88%EB%AC%BC%20gif&ved=2ahUKEwiG3N6s2_L_AhXzmFYBHUsrBisQMygAegUIARCZAg'><\a>
 
 
 **종혁**   
