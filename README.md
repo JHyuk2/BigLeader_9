@@ -11,7 +11,7 @@
 
 - 0717 - Machine Learning ~ light GBM
 
-hi
+hi - bye
 
 ### 팀원 소개
 
