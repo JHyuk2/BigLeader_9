@@ -68,6 +68,12 @@
       - ROC-AUC curve (transform shape of PDF under threshold's changing)
 
         (precision - recall trade off)
+    
+    <br>
+    
+    
+
+  ![PowerBI 시각화](./asset/confusion_matrix.png)
 
   
 
