@@ -9,9 +9,72 @@
 
 - [0630 - Crawler](https://github.com/JHyuk2/BigLeader_9/tree/main/0630%20Crawling)
 
-- 0717 - Machine Learning ~ light GBM
+  - Selenium
 
-hi
+  - BeautifulSoup4
+
+    
+
+- 0717 - Machine Learning
+
+  - Preprocessing
+
+    - EDA
+
+      - null check
+      - scaling - MinMax Scaler, Standard Scaler
+      - imputation - SimpleImputer
+
+    - Feature Selection and VIF (Variance Inflation Factor)
+
+      - (Ensemble)model.feature_importances_
+
+    - oversmapling_SMOTE, undersampling,
+
+      
+
+  - Modeling
+
+    - DecisionTree
+    - RandomForest
+    - KNN (K-Nearest Neghibors)
+    - LogisticRegression
+    - LGBM - light GBM
+
+  - Hyperparameter Tuning
+
+    - GridSearchCV
+
+    
+
+  - Evaluate
+
+    - confusion matrix / ConfusionMatrixDisplay
+
+      - accuracy (TP + FP / TP + FP + TN + FN)  - 정확
+
+      - precision (TP / TP + FP ) - 정밀도
+
+      - recall (TP / TP + FN )  - 재현율
+
+      - f1 score (2 /  (1/ precision + 1 /recall) ) - 조화 평균
+
+      - ROC-AUC curve (transform shape of PDF under threshold's changing)
+
+        (precision - recall trade off)
+
+  
+
+- [0724 - 0728 NLP](https://github.com/JHyuk2/BigLeader_9/tree/main/0724%20NLP)
+
+  - day1 - konlpy, nltk, regexp
+  - day2 - N-gram, TF-IDF / TDM , CountVectorizer, Cosine/Jacaard-similarity
+  - day3 - Back propagation, categorical value, loss function and optimizer
+  - day4 - tensorflow ~ Tokenizer, padding / LSTM, 
+  - day5 - nltk ~ sent_tokenize, Word2Vec(gensim), SimpleRNN 
+
+
+
 
 ### 팀원 소개
 
@@ -48,6 +111,8 @@ hi
   - 통계기반 분석
   - 부산 사투리 소녀
   
+
+
 
 
 ## 6월 27일 화요일
@@ -313,3 +378,20 @@ XGBoost는 무겁고 느리기 때문에 LightGBoost를 쓴다고 했다. 이 �
 **현호**  
 
 > 오렌지? 오렌지? 오렌지? 오... 나는 수학이 좋은 사람이였다...
+
+
+
+## 7월 24 - 28일
+
+#### `NLP` - Day 1
+
+**종혁**  
+
+> 7월이 벌써 끝나간다. 한달동안 나는 무엇을 했을까 돌아보는 시점. 
+>
+> 수업이 자연어처리와 딥러닝이라 그랬을까 나는 아직도 부족하고 모르는게 많다고 느꼈던 시간이었던 것 같다. 이젠 열심히가 아니라 잘 하고 싶다. 조금만 힘내서 시간을 잘 써보자.
+
+
+
+
+
