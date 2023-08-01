@@ -86,7 +86,7 @@
   - day5 - nltk ~ sent_tokenize, Word2Vec(gensim), SimpleRNN 
 
 
-
+#### 터지지마 레포야
 
 ### 팀원 소개
 
