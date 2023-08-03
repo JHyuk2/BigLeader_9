@@ -442,7 +442,7 @@ elastic : 라쏘와 릿지 모두 사용하는 모델
 
 ## 8월 3일s
 
-#### `CHAT-GPT` - Day 1
+#### `CHATGPT` - Day 1
 
 **혜민**  
 
